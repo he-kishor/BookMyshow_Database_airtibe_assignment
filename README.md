@@ -8,7 +8,7 @@ Database Architecture of Book My Show
     It includes entities like cities, theaters, halls, movies, schedules, users, and bookings, 
     with structured relationships to ensure efficient management and data integrity.
   ## entities:
-    - City:
+    -City:
         description: Stores information about cities.
         attributes:
           - ID: Unique identifier for the city.
