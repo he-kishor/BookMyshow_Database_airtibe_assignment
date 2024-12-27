@@ -8,6 +8,8 @@ CREATE TABLE Theater (
 );
 --the theater table is created successufully
 
+
+--**************************************************************************************************************************
 INSERT INTO Theater (t_name, t_address, city_id, Hall_count) VALUES
 ('PVR Cinemas - Andheri', 'Andheri West, Mumbai', 1, 5),
 ('INOX Nehru Place', 'Nehru Place, New Delhi', 2, 6),
@@ -92,5 +94,7 @@ INSERT INTO Theater (t_name, t_address, city_id, Hall_count) VALUES
 --INSERT successfully executed. 80 rows were affected.
 
 
+
+--**************************************************************************************************************************
 -- Verify the data
 select * from Theater;

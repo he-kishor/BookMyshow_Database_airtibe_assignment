@@ -12,4 +12,6 @@ CREATE TABLE IF NOT EXISTS Scheduling (
     FOREIGN KEY (movie_id) REFERENCES Movie(id)
 );
 
+
+--**************************************************************************************************************************
 select * from Scheduling;

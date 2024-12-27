@@ -6,6 +6,8 @@ CREATE TABLE City (
 );
 -- city table created successfully
 
+
+--**************************************************************************************************************************
 Insert 20 Indian cities into the City table
 INSERT INTO City (state, city_name) VALUES
 ('Maharashtra', 'Mumbai'),
@@ -31,4 +33,6 @@ INSERT INTO City (state, city_name) VALUES
 
 -- INSERT successfully executed. 20 rows were affected.
 
+
+--**************************************************************************************************************************
 select * from city;

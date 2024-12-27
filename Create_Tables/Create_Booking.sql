@@ -6,4 +6,5 @@ CREATE TABLE IF NOT EXISTS Booking (
     FOREIGN KEY (u_id) REFERENCES user_new(id),
     FOREIGN KEY (sched_id) REFERENCES Scheduling(id)
 );
+--**************************************************************************************************************************
 select * from booking;

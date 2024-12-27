@@ -10,6 +10,8 @@ CREATE TABLE IF NOT EXISTS User_new(
 
 --created successufully
 
+
+--**************************************************************************************************************************
 Insert 100 Users
 INSERT INTO User_new(name, gender, age) VALUES
 ('John Doe', 'M', 25),
@@ -134,5 +136,8 @@ INSERT INTO User_new(name, gender, age) VALUES
 ('Carter Adams', 'M', 30),
 ('Aidan Brown', 'M', 29);
 
+
+
+--**************************************************************************************************************************
 -- --INSERT successfully executed. 121 rows were affected.
 select * from User_new;

@@ -4,6 +4,9 @@ CREATE TABLE IF NOT EXISTS Movie (
     imdb_rating FLOAT
 );
 --created succcessfully
+
+
+--**************************************************************************************************************************
 Insert 200 Movies with predefined movie names and IMDb ratings
 INSERT INTO Movie (movie_name, imdb_rating) VALUES
 ('The Shawshank Redemption', 9.3),
@@ -163,4 +166,6 @@ INSERT INTO Movie (movie_name, imdb_rating) VALUES
 
 --INSERT successfully executed. 154 rows were affected.
 
+
+--**************************************************************************************************************************
 select * from movie;
