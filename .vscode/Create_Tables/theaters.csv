@@ -1,0 +1,81 @@
+"id","t_name","t_address","city_id","hall_count"
+1,"PVR Cinemas - Andheri","Andheri West, Mumbai",1,5
+2,"INOX Nehru Place","Nehru Place, New Delhi",2,6
+3,"Sathyam Cinemas","Royapettah, Chennai",3,7
+4,"Cinepolis Kolkata","Salt Lake, Kolkata",4,4
+5,"PVR Orion Mall","Rajajinagar, Bengaluru",5,8
+6,"Cinemax Ahmedabad","Prahlad Nagar, Ahmedabad",6,5
+7,"Wave Cinemas Lucknow","Hazratganj, Lucknow",7,4
+8,"Raj Mandir Cinema","C-16, Bhagwan Das Rd, Jaipur",8,3
+9,"PVR Hyderabad Central","Panjagutta, Hyderabad",9,6
+10,"INOX Trilium Mall","Circular Road, Amritsar",10,3
+11,"Carnival Cinemas Bhopal","DB Mall, Maharana Pratap Nagar, Bhopal",11,4
+12,"Lulu Mall Cinemas","Edapally, Thiruvananthapuram",12,5
+13,"Cinepolis Patna","P&M Mall, Patliputra Industrial Area, Patna",13,3
+14,"INOX Bhubaneswar","Esplanade One Mall, Rasulgarh, Bhubaneswar",14,5
+15,"Glitz Cinemas Ranchi","Nucleus Mall, Circular Road, Ranchi",15,4
+16,"PVR Guwahati","City Centre Mall, Guwahati",16,6
+17,"INOX Raipur","Magneto The Mall, GE Road, Raipur",17,5
+18,"Carnival Cinemas Chandigarh","Elante Mall, Chandigarh",18,4
+19,"PVR Pacific Mall","Rajpur Road, Dehradun",19,5
+20,"INOX Goa","Caculo Mall, Panaji",20,4
+21,"PVR Oberoi Mall","Goregaon East, Mumbai",1,6
+22,"Carnival Cinemas Rohini","Sector 10, Rohini, New Delhi",2,4
+23,"Escape Cinemas","Express Avenue Mall, Chennai",3,7
+24,"Bioscope Cinemas","Axis Mall, Rajarhat, Kolkata",4,4
+25,"Urvashi Cinemas","Lalbagh Road, Bengaluru",5,8
+26,"Drive-In Cinema","Drive-In Road, Ahmedabad",6,5
+27,"Fun Republic Lucknow","Gomti Nagar, Lucknow",7,4
+28,"Ankur Cinema Jaipur","MI Road, Jaipur",8,3
+29,"Asian Cinemas Hyderabad","Dilsukhnagar, Hyderabad",9,6
+30,"Amritsar Talkies","Lawrence Road, Amritsar",10,3
+31,"Platinum Cinemas","Habibganj Road, Bhopal",11,4
+32,"Nila Cinemas","MG Road, Thiruvananthapuram",12,5
+33,"Vasundhara Cineplex","Fraser Road, Patna",13,3
+34,"INOX Janpath","Janpath Road, Bhubaneswar",14,5
+35,"Ranchi Cineplex","Main Road, Ranchi",15,4
+36,"Central Cinema Hall","Paltan Bazar, Guwahati",16,6
+37,"INOX Ambuja City","Ambuja Mall, Raipur",17,5
+38,"PVR DT Mall","DT Mall, Chandigarh",18,4
+39,"Pacific Cinemas","Rajpur Road, Dehradun",19,5
+40,"Cinepolis Goa","Mall de Goa, Panaji",20,4
+41,"Phoenix Cinemas - Mumbai","Phoenix Mall, Lower Parel, Mumbai",1,5
+42,"PVR Select Citywalk","Saket, New Delhi",2,6
+43,"AGS Cinemas","Villivakkam, Chennai",3,4
+44,"Navina Cinema","Lake Market, Kolkata",4,3
+45,"Forum Mall Cinemas","Koramangala, Bengaluru",5,8
+46,"Alpha One Cinemas","Vastrapur, Ahmedabad",6,5
+47,"Fun Cinemas Lucknow","Riverside Mall, Gomti Nagar, Lucknow",7,4
+48,"Golcha Cinema","MI Road, Jaipur",8,3
+49,"Asian GPR Multiplex","Kukatpally, Hyderabad",9,6
+50,"City Gold Cinemas","Lawrence Road, Amritsar",10,3
+51,"Aura Cinemas","Ashoka Garden, Bhopal",11,4
+52,"Cinepolis Lulu Mall","Thiruvananthapuram",12,5
+53,"Regent Cinema","Fraser Road, Patna",13,3
+54,"Keshari Talkies","Janpath Road, Bhubaneswar",14,4
+55,"Capitol Hill Cinema","Main Road, Ranchi",15,3
+56,"Gold Cinema","Paltan Bazar, Guwahati",16,5
+57,"INOX Magneto Mall","GE Road, Raipur",17,4
+58,"Wave Cinemas Chandigarh","Industrial Area Phase I, Chandigarh",18,5
+59,"Orient Cinema Hall","Clock Tower, Dehradun",19,3
+60,"INOX Mall de Goa","NH-17, Porvorim, Goa",20,4
+61,"PVR Mulund","R Mall, Mulund West, Mumbai",1,6
+62,"Delite Cinemas","Daryaganj, New Delhi",2,4
+63,"Devi Cineplex","Anna Salai, Chennai",3,5
+64,"Priya Cinema","Deshapriya Park, Kolkata",4,4
+65,"Innovative Multiplex","Marathahalli, Bengaluru",5,7
+66,"City Pulse Cinemas","Gandhinagar, Ahmedabad",6,5
+67,"Ritz Theater","Aminabad, Lucknow",7,4
+68,"Raj Mandir 2","C-Scheme, Jaipur",8,3
+69,"Sensation Cinemas","Khairatabad, Hyderabad",9,6
+70,"PVR Trillium Mall","Circular Road, Amritsar",10,3
+71,"Glitz Cinemas Bhopal","New Market, Bhopal",11,4
+72,"Shree Padmanabha Cinema","Fort Road, Thiruvananthapuram",12,5
+73,"Vasundhara Vihar","Kankarbagh, Patna",13,4
+74,"INOX Bhubaneswar 2","Saheed Nagar, Bhubaneswar",14,5
+75,"Ranchi Cineplex 2","Circular Road, Ranchi",15,4
+76,"PVR Guwahati 2","City Centre Mall, Guwahati",16,6
+77,"Carnival Cinemas Raipur","Magneto Mall, Raipur",17,4
+78,"DT Mall Cinemas","IT Park, Chandigarh",18,4
+79,"Pacific Hall 2","Rajpur Road, Dehradun",19,5
+80,"INOX Goa 2","Caculo Mall, Panaji",20,4
