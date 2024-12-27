@@ -5,7 +5,7 @@
             "server": "localhost",
             "port": 5432,
             "driver": "PostgreSQL",
-            "name": "Airtribe_DB",
+            "name": "BookMyShow",
             "group": "Hemant",
             "database": "Hemant_main",
             "username": "postgres",

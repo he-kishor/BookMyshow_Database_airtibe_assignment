@@ -1,0 +1,155 @@
+"id","movie_name","imdb_rating"
+1,"The Shawshank Redemption",9.3
+2,"Inception",8.8
+3,"The Dark Knight",9
+4,"Forrest Gump",8.8
+5,"The Godfather",9.2
+6,"Dilwale Dulhania Le Jayenge",8.2
+7,"3 Idiots",8.4
+8,"Lagaan",8.1
+9,"Kabhi Khushi Kabhie Gham",7.4
+10,"Zindagi Na Milegi Dobara",8.1
+11,"Pulp Fiction",8.9
+12,"The Lord of the Rings: The Return of the King",8.9
+13,"Sholay",8.2
+14,"Mughal-e-Azam",8
+15,"Dangal",8.4
+16,"Jab We Met",7.9
+17,"Taare Zameen Par",8.3
+18,"The Matrix",8.7
+19,"The Lion King",8.5
+20,"Kuch Kuch Hota Hai",7.6
+21,"Chhichhore",8
+22,"Fight Club",8.8
+23,"A Beautiful Mind",8.2
+24,"The Prestige",8.5
+25,"The Godfather: Part II",9
+26,"Pyaasa",8.2
+27,"Andhadhun",8.2
+28,"Queen",8.2
+29,"Kahaani",8.1
+30,"Memento",8.4
+31,"Schindler’s List",9
+32,"Aamir",7.8
+33,"Gully Boy",8
+34,"Donnie Darko",8.1
+35,"Goodfellas",8.7
+36,"Dil Chahta Hai",8.1
+37,"Se7en",8.6
+38,"V for Vendetta",8.2
+39,"Paan Singh Tomar",8.2
+40,"Zindagi Na Milegi Dobara",8.1
+41,"Kahaani 2: Durga Rani Singh",6.7
+42,"The Pursuit of Happyness",8
+43,"Avengers: Endgame",8.4
+44,"The Dark Knight Rises",8.4
+45,"Inglourious Basterds",8.3
+46,"Kahani",7.9
+47,"Bajrangi Bhaijaan",8
+48,"The Avengers",8
+49,"Bajirao Mastani",8
+50,"Black Swan",8
+51,"The Departed",8.5
+52,"The Social Network",7.7
+53,"Rehnaa Hai Terre Dil Mein",7.5
+54,"Aashiqui 2",7.3
+55,"Tanu Weds Manu",7.1
+56,"City of God",8.6
+57,"Vicky Donor",7.8
+58,"A Beautiful Mind",8.2
+59,"The Truman Show",8.1
+60,"Wag the Dog",7.6
+61,"Interstellar",8.6
+62,"Joker",8.5
+63,"Vikram",8.4
+64,"Life of Pi",8
+65,"My Name Is Khan",8
+66,"Lage Raho Munna Bhai",8
+67,"Barfi!",8.1
+68,"Taare Zameen Par",8.3
+69,"Neerja",7.7
+70,"Maidan",7.9
+71,"Parasite",8.6
+72,"Waqt",7.6
+73,"Veer-Zaara",7.8
+74,"Mann",7.5
+75,"Dil Se",7.6
+76,"Kati Patang",7.2
+77,"Barfi",8.1
+78,"Hera Pheri",8.2
+79,"Fukrey",7.6
+80,"Goliyon Ki Raasleela Ram-Leela",7.9
+81,"Tumhari Sulu",7.5
+82,"Gully Boy",8
+83,"Bhaag Milkha Bhaag",8.2
+84,"Rang De Basanti",8.1
+85,"Swades",8.2
+86,"Chakde! India",8
+87,"Gully Boy",8
+88,"Drishyam",8.2
+89,"Bajirao Mastani",8
+90,"Mere Brother Ki Dulhan",6.8
+91,"Dhoom 3",6.2
+92,"Ek Tha Tiger",6.9
+93,"Barfi",8.1
+94,"Shakti: The Power",7
+95,"Raees",7.8
+96,"Sultan",7.8
+97,"Bajirao Mastani",8
+98,"Dangal",8.4
+99,"Tubelight",5.5
+100,"Jab Tak Hai Jaan",6.7
+101,"Fifty Shades of Grey",4.1
+102,"Titanic",7.8
+103,"Mad Max: Fury Road",8.1
+104,"Deadpool",8
+105,"The Revenant",8
+106,"The Dark Knight",9
+107,"The Big Short",7.8
+108,"The Martian",8
+109,"Django Unchained",8.4
+110,"The Grand Budapest Hotel",8.1
+111,"Moonlight",8
+112,"Whiplash",8.5
+113,"Into the Wild",8.1
+114,"The Help",8.1
+115,"Forrest Gump",8.8
+116,"Gladiator",8.5
+117,"The Green Mile",8.6
+118,"Moulin Rouge!",7.6
+119,"12 Angry Men",9
+120,"The Godfather: Part III",7.6
+121,"La La Land",8
+122,"Your Name",8.4
+123,"Catch Me If You Can",8.1
+124,"The Pianist",8.5
+125,"Schindler’s List",9
+126,"The Silence of the Lambs",8.6
+127,"Goodfellas",8.7
+128,"The Great Gatsby",7.3
+129,"Pulp Fiction",8.9
+130,"Coco",8.4
+131,"The Lion King",8.5
+132,"Jumanji: Welcome to the Jungle",6.9
+133,"The Incredibles",8
+134,"Indiana Jones and the Last Crusade",8.2
+135,"The Lord of the Rings: The Fellowship of the Ring",8.8
+136,"Wonder Woman",7.4
+137,"Avengers: Infinity War",8.5
+138,"Deadpool 2",7.7
+139,"Spider-Man: Into the Spider-Verse",8.4
+140,"Thor: Ragnarok",7.9
+141,"Black Panther",7.3
+142,"The Avengers",8
+143,"Avengers: Age of Ultron",7.3
+144,"Shazam!",7
+145,"Wonder Woman",7.4
+146,"The Dark Knight Rises",8.4
+147,"Guardians of the Galaxy",8
+148,"Fantastic Beasts and Where to Find Them",7.3
+149,"The Hobbit: An Unexpected Journey",7.8
+150,"The Hobbit: The Desolation of Smaug",7.8
+151,"The Hobbit: The Battle of the Five Armies",7.4
+152,"Star Wars: The Force Awakens",7.8
+153,"Star Wars: The Last Jedi",7
+154,"Star Wars: The Rise of Skywalker",6.5
