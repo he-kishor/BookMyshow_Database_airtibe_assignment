@@ -7,6 +7,7 @@ Database Architecture of Book My Show
     This schema represents a database system for managing movie ticket bookings. 
     It includes entities like cities, theaters, halls, movies, schedules, users, and bookings, 
     with structured relationships to ensure efficient management and data integrity.
+# PostgreSQL
   ## entities:
     -City:
         description: Stores information about cities.
