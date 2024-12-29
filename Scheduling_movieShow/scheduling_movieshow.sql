@@ -15,7 +15,7 @@ on h.theater_id=t.id WHERE t.t_name='PVR Cinemas - Andheri'
 
 --**************************************************************************************************************************
 --Schedule hall for the movie show or Book hall for the movie show
-insert INTO Scheduling(theater_id, hall_id, movie_id, fees,start_time,end_time) VALUES (1,56 ,45,500, '2024-12-30 14:00:00', '2024-12-30 16:00:00');
+insert INTO Scheduling(theater_id, hall_id, movie_id, fees,start_time,end_time) VALUES (1,179 ,45,300, '2024-12-28 17:00:00', '2024-12-28 19:00:00');
 
 --**************************************************************************************************************************
 --you can check the hall is schedule for the movie in the "hall_schedule.csv" file
